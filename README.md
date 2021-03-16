@@ -1,6 +1,7 @@
-# 텐서플로로 배우는 딥러닝(책)
+# Deep Learning with TensorFlow 2 and Keras
 
-## 딥러닝 기초 이론부터 ANN, 오토인코더, CNN, RNN, GAN, 
-## FCN, DQN, 이미지 캡셔닝 최신 모델 구현까지 다지기
+# 텐서플로 2와 케라스로 구현하는 딥러닝
 
-2021.03 ~ 심심할때마다 해보는 딥러닝 꿀잼
+## 회귀, CNN, GAN, RNN, NAP, AutoML
+
+### 심심할때마다 하는 딥러닝~ 룰루
